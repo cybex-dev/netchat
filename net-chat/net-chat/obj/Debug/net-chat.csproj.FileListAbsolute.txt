@@ -1,0 +1,16 @@
+c:\users\cybex\documents\visual studio 2015\Projects\net-chat\net-chat\bin\Debug\net-chat.exe.config
+c:\users\cybex\documents\visual studio 2015\Projects\net-chat\net-chat\bin\Debug\net-chat.exe
+c:\users\cybex\documents\visual studio 2015\Projects\net-chat\net-chat\bin\Debug\net-chat.pdb
+c:\users\cybex\documents\visual studio 2015\Projects\net-chat\net-chat\obj\Debug\net-chat.csprojResolveAssemblyReference.cache
+c:\users\cybex\documents\visual studio 2015\Projects\net-chat\net-chat\obj\Debug\net_chat.Form1.resources
+c:\users\cybex\documents\visual studio 2015\Projects\net-chat\net-chat\obj\Debug\net_chat.Properties.Resources.resources
+c:\users\cybex\documents\visual studio 2015\Projects\net-chat\net-chat\obj\Debug\net-chat.csproj.GenerateResource.Cache
+c:\users\cybex\documents\visual studio 2015\Projects\net-chat\net-chat\obj\Debug\net-chat.exe
+c:\users\cybex\documents\visual studio 2015\Projects\net-chat\net-chat\obj\Debug\net-chat.pdb
+C:\Users\CybeX\Documents\Visual Studio 2015\Projects\net-chat\net-chat\bin\Debug\GrowLabel.dll
+C:\Users\CybeX\Documents\Visual Studio 2015\Projects\net-chat\net-chat\bin\Debug\GrowLabel.pdb
+C:\Users\CybeX\Documents\Visual Studio 2015\Projects\net-chat\net-chat\bin\Debug\ChatMediaPanel.dll
+C:\Users\CybeX\Documents\Visual Studio 2015\Projects\net-chat\net-chat\bin\Debug\ChatMediaPanel.pdb
+C:\ghoulserver\net-chat\source files\net-chat\net-chat\bin\Debug\net-chat.exe.config
+C:\ghoulserver\net-chat\source files\net-chat\net-chat\obj\Debug\net-chat.exe
+C:\ghoulserver\net-chat\source files\net-chat\net-chat\obj\Debug\net-chat.pdb
